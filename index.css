@@ -1,0 +1,20 @@
+h1, p {
+    font-family: Lato;
+  }
+  
+  .todo {
+    display: block;
+    cursor: pointer;
+  }
+  
+  
+  input[type=text] {
+    padding:10px;
+    border-collapse: collapse;
+  }
+
+  button{
+     margin:10px;
+     background-color: lightskyblue;
+     padding:10px;
+  }
